@@ -1,8 +1,8 @@
 # Magic Circle Maker
 
-A browser app for procedurally generating and animating magic circles. Inspired by the feature set of [Magic Circle Generator](https://game-dev-goose.itch.io/magic-circle-generator), reimplemented from scratch.
+A browser app for procedurally generating and animating magic circles. Inspired by the feature set of [Magic Circle Generator by Game Dev Goose](https://game-dev-goose.itch.io/magic-circle-generator), if you want a larger and more complete feature set I suggest supporting Game Dev Goose!
 
-You can try it out [here](https://zisomerism.github.io/magic-circle-maker/)!
+You can try it out Magic Circle Maker [here!](https://zisomerism.github.io/magic-circle-maker/)
 
 ## Features
 
